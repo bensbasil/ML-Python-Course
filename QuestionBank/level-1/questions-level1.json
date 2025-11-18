@@ -1,0 +1,11 @@
+[
+    {
+      "question": "What is Python?",
+      "answer": "Python is a high-level, interpreted programming language."
+    },
+    {
+      "question": "What is a variable in Python?",
+      "answer": "A variable in Python is a storage location paired with an associated symbolic name (an identifier), which contains some known or unknown quantity of information referred to as a value."
+    }
+  ]
+  

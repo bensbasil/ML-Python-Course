@@ -1,0 +1,11 @@
+[
+    {
+      "question": "Explain the concept of inheritance in OOP.",
+      "answer": "Inheritance is a mechanism in object-oriented programming where one class derives attributes and methods from another class."
+    },
+    {
+      "question": "What are decorators in Python?",
+      "answer": "Decorators are a way to modify or extend the behavior of functions or methods without modifying their actual code."
+    }
+  ]
+  

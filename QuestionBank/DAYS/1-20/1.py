@@ -1,0 +1,10 @@
+x="""HAII FIRST  PROJECT"""
+print(x)
+a=input("Enter your name ")
+print(type(a))
+print(f"{a}")
+print("haii",a)
+a=input("Enter your age ")
+a+=int(a)
+print(a)
+print(type(a))

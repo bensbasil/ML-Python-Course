@@ -50,7 +50,7 @@ This repo reflects **active learning**, not copied tutorial code.
 - Git & GitHub version control
 - Basic project structure
 
----
+----
 
 ## 🗂️ Repository Structure
 
